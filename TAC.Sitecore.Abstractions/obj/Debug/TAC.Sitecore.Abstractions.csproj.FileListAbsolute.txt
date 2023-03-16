@@ -1,0 +1,13 @@
+C:\Projects\TAC\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.csproj.AssemblyReference.cache
+C:\Projects\TAC\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.csproj.CoreCompileInputs.cache
+C:\Projects\TAC\TAC.Sitecore.Abstractions\bin\Debug\TAC.Sitecore.Abstractions.dll
+C:\Projects\TAC\TAC.Sitecore.Abstractions\bin\Debug\TAC.Sitecore.Abstractions.pdb
+C:\Projects\TAC\TAC.Sitecore.Abstractions\bin\Debug\Sitecore.Kernel.dll
+C:\Projects\TAC\TAC.Sitecore.Abstractions\bin\Debug\Sitecore.Mvc.dll
+C:\Projects\TAC\TAC.Sitecore.Abstractions\bin\Debug\System.Web.Mvc.dll
+C:\Projects\TAC\TAC.Sitecore.Abstractions\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\TAC\TAC.Sitecore.Abstractions\bin\Debug\Sitecore.Kernel.xml
+C:\Projects\TAC\TAC.Sitecore.Abstractions\bin\Debug\System.Web.Mvc.xml
+C:\Projects\TAC\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.csproj.CopyComplete
+C:\Projects\TAC\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.dll
+C:\Projects\TAC\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.pdb
